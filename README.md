@@ -23,5 +23,5 @@ Napisanie funkcji (lub metody klasy), która jako argumenty dostaje czas i datę
 
 # Sposób realizacji
 
-1. Przek wykoaniem zadania należy uzupełnić plik `01-assumptions.md` wpisując w nim zakres zadania, jaki zamierza się wykonać, przewidywany czas pracy nad zadaniem i przewidywany czas oddania ostatecznego rozwiązania.
+1. Przed wykoaniem zadania należy uzupełnić plik `01-assumptions.md` wpisując w nim zakres zadania, jaki zamierza się wykonać, przewidywany czas pracy nad zadaniem i przewidywany czas oddania ostatecznego rozwiązania.
 1. W ramach wykonania zadania należy uzupełnić plik `02-assignment.py` oraz plik `03-summary.md` wpisując w nim ewentualne uwagi oraz rzeczywisty czas poświęcony na rozwiązanie zadania.
